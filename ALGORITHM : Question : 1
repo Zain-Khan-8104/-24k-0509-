@@ -1,1 +1,28 @@
-a
+Start
+Input n is integer
+If n = 1,
+Display "January".
+ELSE IF n = 2,
+Display "February".
+ELSE IF n = 3,
+Display "March".
+ELSE IF n = 4,
+Display "April".
+ELSE IF n = 5,
+Display "May".
+ELSE IF n = 6,
+Display "June".
+ELSE IF n = 7,
+Display "July".
+ELSE IF n = 8,
+Display "August".
+ELSE IF n = 9,
+Display "September".
+ELSE IF n = 10,
+Display "October".
+ELSE IF n = 11,
+Display "November".
+ELSE IF n = 12,
+Display "December".
+Otherwise print "inappropriate month"
+End
