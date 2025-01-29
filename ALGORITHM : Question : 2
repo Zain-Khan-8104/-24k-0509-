@@ -1,1 +1,23 @@
-
+start
+Ask the user to enter  a
+Ask the user to enter operators ( + , - , * , / , % )
+Ask the user to enter b 
+result = 0
+If operator is '+' then
+result = a+b
+print "result"
+Else if operator is '-' then
+result = a-b
+print "result"
+Else if operator is '*' then
+result = a*b
+print "result"
+Else if operator is '/' then
+result = a/b
+print "result"
+Else if operator is '%' then
+result = a%b
+print "result"
+Else 
+print "you enter wrong operator"
+END 
